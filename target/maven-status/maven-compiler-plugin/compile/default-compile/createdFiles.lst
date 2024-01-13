@@ -1,0 +1,4 @@
+com\itheima\mp\controller\UserController.class
+com\itheima\mp\domain\query\UserQuery.class
+com\itheima\mp\service\IUserService.class
+com\itheima\mp\service\impl\UserServiceImpl.class
